@@ -1,0 +1,80 @@
+2020-09-25 10:32:15,538 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: Version 5.3
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: java.version=11.0.8
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: os.name=Windows 10
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: os.arch=amd64
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: os.version=10.0
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: file.encoding=Cp1251
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: java.awt.headless=null
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-09-25 10:32:15,558 INFO o.a.j.JMeter: Available Processors =8
+2020-09-25 10:32:15,570 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-09-25 10:32:15,571 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-09-25 10:32:15,571 INFO o.a.j.JMeter: JMeterHome=C:\Users\User\Downloads\apache-jmeter-5.3\apache-jmeter-5.3
+2020-09-25 10:32:15,571 INFO o.a.j.JMeter: user.dir  =C:\Users\User\Downloads\apache-jmeter-5.3\apache-jmeter-5.3\bin
+2020-09-25 10:32:15,571 INFO o.a.j.JMeter: PWD       =C:\Users\User\Downloads\apache-jmeter-5.3\apache-jmeter-5.3\bin
+2020-09-25 10:32:15,572 INFO o.a.j.JMeter: IP: 10.255.11.245 Name: WIN-PI46OBLMFUJ FullName: WIN-PI46OBLMFUJ
+2020-09-25 10:32:15,683 INFO o.a.j.JMeter: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel
+2020-09-25 10:32:15,805 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-09-25 10:32:19,471 INFO o.j.r.JARSourceHTTP: Found cached repo
+2020-09-25 10:32:19,632 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, bzm-siebel=1.0, bzm-http2=1.6, blazemeter-debugger=0.6, netflix-cassandra=0.2-SNAPSHOT, jpgc-cmd=2.2, jpgc-graphs-composite=2.0, jpgc-csl=0.1, custom-soap=1.3.3, jpgc-casutg=2.9, jpgc-dbmon=0.1, jpgc-directory-listing=0.3, jpgc-dummy=0.4, jmeter.backendlistener.elasticsearch=2.7.0, jpgc-filterresults=2.2, jpgc-ffw=2.0, tilln-formman=1.0, jpgc-httpraw=0.1, jpgc-sts=2.4, mqmeter=2.1.0, jpgc-fifo=0.2, jpgc-jms=0.2, jpgc-jmxmon=0.3, jmeter.pack-listener=1.7, jpgc-json=2.7, kafkameter=0.2.0, jmeter.backendlistener.kafka=1.0.0, mqtt-sampler=0.0.1-SNAPSHOT, jpgc-mergeresults=2.1, jpgc-pde=0.1, bzm-parallel=0.9, jpgc-prmctl=0.4, jpgc-perfmon=2.1, jpgc-plugins-manager=1.4, jmeter-prometheus=0.6.0, bzm-random-csv=0.6, jpgc-redis=0.3, jpgc-rotating-listener=0.2, ssh-sampler=1.1.1-SNAPSHOT, tilln-sshmon=1.2, jpgc-webdriver=3.3, jpgc-plancheck=2.4, jpgc-tst=2.5, jpgc-udp=0.4, jpgc-csvars=0.1, tilln-wssecurity=1.7, websocket-sampler=1.0.2-SNAPSHOT, websocket-samplers=1.2.8, jpgc-wsc=0.7, jpgc-xml=0.1, jpgc-xmpp=1.5.1, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3]
+2020-09-25 10:32:21,525 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-09-25 10:32:21,534 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\User\Downloads\apache-jmeter-5.3\apache-jmeter-5.3\bin\proxyserver.jks
+2020-09-25 10:32:21,648 INFO c.b.j.c.CorrelationProxyControlGui: Correlation Recorder Test Plan Template installed
+2020-09-25 10:32:21,650 INFO c.b.j.c.g.TestPlanTemplatesRepository: The container folder was created at C:/Users/User/Downloads/apache-jmeter-5.3/apache-jmeter-5.3/correlation-templates/
+2020-09-25 10:32:21,654 INFO c.b.j.c.CorrelationProxyControlGui: Siebel Correlation's Template installed
+2020-09-25 10:32:21,683 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-25 10:32:21,684 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-25 10:32:21,685 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-25 10:32:21,685 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-25 10:32:21,685 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-09-25 10:32:21,686 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-09-25 10:32:21,742 WARN o.a.j.u.JMeterUtils: no icon for toolbar/19x19arrow-right-3.png
+2020-09-25 10:32:21,748 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-09-25 10:32:21,748 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-09-25 10:32:21,748 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-09-25 10:32:21,748 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-09-25 10:32:21,849 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:315) ~[?:?]
+	at com.blazemeter.jmeter.http2.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:396) ~[jmeter-bzm-http2-1.6.jar:?]
+	at com.blazemeter.jmeter.http2.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:322) ~[jmeter-bzm-http2-1.6.jar:?]
+	at com.blazemeter.jmeter.http2.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:283) ~[jmeter-bzm-http2-1.6.jar:?]
+	at com.blazemeter.jmeter.http2.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:118) ~[jmeter-bzm-http2-1.6.jar:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at org.apache.jmeter.gui.util.MenuFactory.getGUIComponent(MenuFactory.java:207) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:151) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:107) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.control.gui.TestPlanGui.createPopupMenu(TestPlanGui.java:94) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:184) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:87) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:69) ~[ApacheJMeter_core.jar:5.3]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) [?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:740) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	... 31 more
+2020-09-25 10:35:34,255 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-09-25 10:35:34,255 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
